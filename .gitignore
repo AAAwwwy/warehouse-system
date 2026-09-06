@@ -1,0 +1,19 @@
+# Java 编译产物
+*.class
+WebRoot/WEB-INF/classes/
+
+# 第三方依赖 jar（按 README 说明下载放入 WEB-INF/lib）
+WebRoot/WEB-INF/lib/*.jar
+
+# IDE 配置
+.settings/
+.classpath
+.project
+.metadata/
+
+# 系统文件
+desktop.ini
+Thumbs.db
+
+# 日志
+*.log
